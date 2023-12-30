@@ -1,1 +1,2 @@
-This are some small projects in react
+Proiecte mici pentru a invata React.
+
